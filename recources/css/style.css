@@ -20,7 +20,7 @@ header h1 {
     font-weight: normal;
 }
 
-header a.link {
+a.link {
     color: aquamarine;
     text-decoration: underline;
  }
@@ -33,5 +33,15 @@ header a.link {
  div p.sub {
     font-size: 21px;
     color: gray;
+ }
+
+ #travelguide img {
+    margin: 20px auto;
+ }
+
+ footer p {
+    text-align: right;
+    color: gray;
+    padding-right: 15px;
  }
 
