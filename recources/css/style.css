@@ -24,3 +24,14 @@ header a.link {
     color: aquamarine;
     text-decoration: underline;
  }
+
+ h2 {
+    font-weight: 300;
+    font-size: 42px;
+ }
+
+ div p.sub {
+    font-size: 21px;
+    color: gray;
+ }
+
